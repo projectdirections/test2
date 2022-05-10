@@ -1,0 +1,56 @@
+body { margin: 33px; color:#00f0f0; background: #000000;   font-size:80px; font-family: monospace, sans-serif; }
+h1 { font-size: 20px;}
+h2{font-size: 7px;}
+pre { margin: 3px 0; color: #00f0f0; font-family: system-ui, sans-serif;	text-align: left; }
+a:link { text-decoration: none; color:  #00f0f0; }
+a:visited { text-decoration: none; color: #00f0f0; }
+a:hover, a:active { text-decoration: underline; color: #00f0f0; }
+pre img { display: inline; }
+img { display: none; }
+hr { margin: 10px 0; }
+
+.scheme, .author, pre, .block { font-family:  monospace; }
+.block { display: inline-block; font-size: 13px; font-weight: bold; padding: 1px; margin: 0 1px 1px 0; }
+
+  	  
+     
+
+  	  
+      .bs00-bg { background-color: #3B3228; }
+      .bs01-bg { background-color: #534636; }
+      .bs02-bg { background-color: #645240; }
+      .bs03-bg { background-color: #7e705a; }
+      .bs04-bg { background-color: #b8afad; }
+      .bs05-bg { background-color: #d0c8c6; }
+      .bs06-bg { background-color: #e9e1dd; }
+      .bs07-bg { background-color: #f5eeeb; }
+      .bs08-bg { background-color: #cb6077; }
+      .bs09-bg { background-color: #d28b71; }
+      .bs0A-bg { background-color: #f4bc87; }
+      .bs0B-bg { background-color: #beb55b; }
+      .bs0C-bg { background-color: #7bbda4; }
+      .bs0D-bg { background-color: #8ab3b5; }
+      .bs0E-bg { background-color: #a89bb9; }
+      .bs0F-bg { background-color: #bb9584; }
+      .bsG-bg { background-color: #203731; }
+      .bsY-bg {background-color: #ffb612;} 
+      
+      
+      .bs00 { color: #3B3228; }
+      .bs01 { color: #534636; }
+      .bs02 { color: #645240; }
+      .bs03 { color: #7e705a; }
+      .bs04 { color: #b8afad; }
+      .bs05 { color: #d0c8c6; }
+      .bs06 { color: #e9e1dd; }
+      .bs07 { color: #f5eeeb; }
+      .bs08 { color: #cb6077; }
+      .bs09 { color: #d28b71; }
+      .bs0A { color: #f4bc87; }
+      .bs0B { color: #beb55b; }
+      .bs0C { color: #7bbda4; }
+      .bs0D { color: #8ab3b5; }
+      .bs0E { color: #a89bb9; }
+      .bs0F { color: #bb9584; }
+       bsG {color: #203731; }
+      .bsY {color: #ffb612;} 
